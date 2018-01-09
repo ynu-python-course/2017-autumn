@@ -1,0 +1,6 @@
+# http://blog.csdn.net/qingzhuochenfu/article/details/51187603
+# theano
+tensorflow
+keras
+scipy
+numpy
